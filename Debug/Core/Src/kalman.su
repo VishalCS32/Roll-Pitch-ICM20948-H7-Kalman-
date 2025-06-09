@@ -1,0 +1,5 @@
+../Core/Src/kalman.c:11:6:kalman_init	16	static
+../Core/Src/kalman.c:30:6:kalman_update	56	static
+../Core/Src/kalman.c:75:13:kalman_update_single	64	static
+../Core/Src/kalman.c:104:14:calculate_roll	24	static
+../Core/Src/kalman.c:109:14:calculate_pitch	16	static

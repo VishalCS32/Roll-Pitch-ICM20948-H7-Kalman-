@@ -1,9 +1,9 @@
 /*
-* icm20948.h
-*
-*  Created on: Dec 26, 2020
-*      Author: mokhwasomssi
-*/
+ * icm20948.c
+ *
+ *  Created on: Jun 8, 2025
+ *      Author: vishal
+ */
 
 
 #ifndef __ICM20948_H__

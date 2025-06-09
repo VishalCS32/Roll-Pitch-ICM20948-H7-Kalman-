@@ -1,8 +1,8 @@
 /*
  * icm20948.c
  *
- *  Created on: Dec 26, 2020
- *      Author: mokhwasomssi
+ *  Created on: Jun 8, 2025
+ *      Author: vishal
  */
 
 #include "icm20948.h"
